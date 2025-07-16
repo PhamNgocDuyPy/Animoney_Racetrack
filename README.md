@@ -69,13 +69,6 @@ Trò chơi này mang tính may rủi khá cao
 Tips: Bạn có thể chọn Trói hồn trong Màn lựa chọn item power-up để khóa đối thủ , tạo lợi thế cho bạn
 
 
-
-VỀ CHÚNG TÔI
-=============
-Một tập thể gồm 4 kẻ vô đối và một người "vô dụng" - chính là tôi, Nguyễn Văn Phước, User12694.
-![image](https://github.com/User12694/Game_Project/assets/89754537/ffefce11-bcc7-4d4a-92a6-2cf6f3223da9)
-
-
 MỘT SỐ HÌNH ẢNH TRONG GAME
 ==========================
 ![image](https://github.com/User12694/Game_Project/assets/89754537/8f4faa5e-877b-49fe-b75e-a3cf0ca0731d)
